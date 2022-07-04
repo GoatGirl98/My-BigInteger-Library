@@ -18,7 +18,7 @@
 - **大数开根 (结果按绝对值向下取整) ($ \lfloor \sqrt[A]{B} \rfloor $)**
 - **最大公约数 ($ \gcd (A, B) $)**
 - **阶乘 ($A!$)**
-- **组合数 ($C(n, m)$)**
+- **组合数 ( $C(n, m)$ )**
 
 ## `Arbitrary-Radix Big-Integer.cpp`
 
