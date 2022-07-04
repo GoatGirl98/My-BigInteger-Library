@@ -18,7 +18,7 @@ Library for 10-radix **signed** BigInteger, including all kinds of arithmetic op
 - **root (abs round down) ($ \lfloor \sqrt[A]{B} \rfloor $)**
 - **greatest common divisor ($ \gcd (A, B) $)**
 - **factorial ($A!$)**
-- **combination ($C(n, m)$)**
+- **combination ($C(n, m)$) **
 
 ## `Arbitrary-Radix Big-Integer.cpp`
 
