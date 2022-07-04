@@ -12,7 +12,7 @@ Library for 10-radix **signed** BigInteger, including all kinds of arithmetic op
 - **subtract ( $A-B$ )**
 - **multiply ( $A*B$ )**
 - **divide (abs round down) ( $\lfloor A/B \rfloor$ )**
-- **modulo ( $A\%B$ )**
+- **modulo ( $A\mod B$ )**
 - **power ( $A^B$ )**
 - **log (abs round down) ($\lfloor \log_A B\rfloor$ )**
 - **root (abs round down) ($ \lfloor \sqrt[A]{B} \rfloor $)**
